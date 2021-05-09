@@ -1,2 +1,3 @@
-john@example.com
-mike@example.com
+pengirim@example.com
+penerima@example.com
+subjek, isi email, dan file .pdf mohon isi sendiri...
